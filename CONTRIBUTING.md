@@ -2,7 +2,7 @@
 
 First, thanks a lot for wanting to help! Make sure you have read the [doc on code style](https://docs.fast.ai/dev/style.html) first. (Note that we don't follow PEP8, but instead follow a coding style designed specifically for numerical and interactive programming.) For help running and building the code, see the [developers guide](https://docs.fast.ai/dev/develop.html).
 
-So cool this is a pretty normal system. For writing. 
+So cool this is a pretty normal system. For writing. So apparently this goes straight into Github then. Pretty cool.
 
 ## Note for new contributors from Jeremy
 
